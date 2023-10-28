@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgba(144, 187, 35, 0.566);
+    font-size: 300%;
+}
+body{
+    background-image:url('https://csengineermag.com/wp-content/uploads/2020/04/AdobeStock_317396428.jpeg');
+    
+}
+p{
+    color:rgb(217, 225, 230);
+    text-align: center;
+    font-size: 125%;
+}
+h4{
+    text-align: center;
+    color: chartreuse;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    text-indent: -2em;
+}
